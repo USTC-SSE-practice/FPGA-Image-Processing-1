@@ -90,13 +90,15 @@ The project implements a **Sobel edge detection algorithm** for preprocessing gr
 - Run FPGA processing
 - View results (gradient X, Y, and magnitude)
 
-<img src="gui_screenshot.png" alt="GUI Screenshot" width="500"/>
+<img src="gui_screenshot.jpg" alt="GUI Screenshot" width="500"/>
 
 ---
 
 ## ⚙️ How to Run
 
 ### 💾 Prerequisites:
+- Setup the dataset path in the GUI app
+- Setup the dataset path in test bench file for vitis HLS simulation
 - Vivado + Vitis installed
 - Python ≥ 3.7 with required packages:
 ```bash
