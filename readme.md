@@ -2,7 +2,7 @@
 
 This project demonstrates a complete **hardware-software co-design** flow for implementing a **Sobel edge detection filter** on an FPGA using the **MNIST dataset** of handwritten digits.
 
-By leveraging the **Xilinx Zynq-7000 SoC (ZedBoard)** platform, this work combines Python prototyping, High-Level Synthesis (HLS) in C++, and GUI development to accelerate image preprocessing using reconfigurable hardware.
+By leveraging the **Xilinx  Zynq-7000 SoC (ZedBoard)** platform, this work combines Python prototyping, High-Level Synthesis (HLS) in C++, and GUI development to accelerate image preprocessing using reconfigurable hardware.
 
 ---
 
@@ -13,9 +13,6 @@ By leveraging the **Xilinx Zynq-7000 SoC (ZedBoard)** platform, this work combin
 - [🔬 Technologies Used](#-technologies-used)
 - [🖥️ GUI Overview](#-gui-overview)
 - [⚙️ How to Run](#-how-to-run)
-- [📸 Sample Results](#-sample-results)
-- [👨‍💻 Authors](#-authors)
-- [📚 References](#-references)
 
 ---
 
